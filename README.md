@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Kiru</h1>
+<h1 align="center">Hi 👋, I'm Kirti Prasad</h1>
 <h3 align="center">Aspiring Full Stack Developer | MCA Graduate | Java Enthusiast</h3>
 
 <p align="center">
-  <img src=""D:\Kirti's Portfolio\pic.jpg"" width="200"/>
+  <img src="D:\Kirti's Portfolio\pic.jpg" width="200"/>
 </p>
 
 ---
