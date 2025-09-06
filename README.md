@@ -20,7 +20,7 @@
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/kirti-prasad-62a831302?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - 📧 Email: kirtiprasad1473@gmail.com
-- 📄 [Download Resume]("D:\Kirti's Portfolio\Kirti MCA resume.pdf")
+- 📄 [Download Resume] (D:\Kirti's Portfolio\Kirti MCA resume.pdf)
 
 
 ### 🛠 Tech Stack
